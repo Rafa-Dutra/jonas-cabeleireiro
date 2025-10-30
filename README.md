@@ -33,13 +33,13 @@ Aplicativo mobile desenvolvido para o salão **Jonas Cabeleireiro**, permitindo 
 
 ---
 
-### 1️⃣ Instalar dependências
+ 1️ Instalar dependências
 No terminal dentro da pasta do projeto:
 ```bash
 npm install
 ```
 
-### 2️⃣ Iniciar o aplicativo com Expo:
+2️ Iniciar o aplicativo com Expo:
 ```bash
   npx expo start
 ```
