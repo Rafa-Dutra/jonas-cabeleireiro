@@ -37,10 +37,12 @@ Aplicativo mobile desenvolvido para o salão **Jonas Cabeleireiro**, permitindo 
 No terminal dentro da pasta do projeto:
 ```bash
 npm install
+```
 
 ### 2️⃣ Iniciar o aplicativo com Expo:
 ```bash
   npx expo start
+```
 
 O navegador abrirá automaticamente com o Expo DevTools
 Escaneie o QR Code usando o Expo Go no seu telefone
