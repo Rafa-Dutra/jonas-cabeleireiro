@@ -1,4 +1,4 @@
-# App Jonas Cabeleireiro
+App Jonas cabeleireiro
 
 Aplicativo mobile desenvolvido para o salão **Jonas Cabeleireiro**, permitindo a visualização dos serviços, horários e agendamento de cortes, além de acesso à localização com rota no Google Maps.
 
@@ -17,9 +17,9 @@ Aplicativo mobile desenvolvido para o salão **Jonas Cabeleireiro**, permitindo 
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
-### Frontend
+###Frontend
 - React Native (Expo)
 - React Navigation
 - React Native Maps
@@ -27,7 +27,7 @@ Aplicativo mobile desenvolvido para o salão **Jonas Cabeleireiro**, permitindo 
 
 ## Como executar o projeto
 
-### ✔ Pré-requisitos
+### Pré-requisitos
 - Node.js instalado no computador
 - Aplicativo **Expo Go** instalado no celular Android/iOS
 
@@ -38,7 +38,7 @@ No terminal dentro da pasta do projeto:
 ```bash
 npm install
 
-//2️⃣ Iniciar o aplicativo com Expo:
+### 2️⃣ Iniciar o aplicativo com Expo:
 ```bash
   npx expo start
 
